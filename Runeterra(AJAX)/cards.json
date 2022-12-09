@@ -1,0 +1,15 @@
+[
+     {"name": "Vile Feast", "power": "N/A", "health": "N/A","Region": "Shadow Isles", "speed": "fast", "cost": 2, "champion": false, "winrate": 50.7},
+     {"name": "Mystic Shot", "power": "N/A", "health": "N/A","Region": "Piltover and Zaun", "speed": "fast", "cost": 2, "champion": false, "winrate": 51.3},
+     {"name": "Quietus", "power": "N/A", "health": "N/A","Region": "Shadow Isles", "speed": "slow", "cost": 1, "champion": false, "winrate": 50.8},
+     {"name": "Pokey Stick", "power": "N/A", "health": "N/A","Region": "Bandle City", "speed": "fast", "cost": 2, "champion": false, "winrate": 51.3},
+     {"name": "Glimpse Beyond", "power": "N/A", "health": "N/A","Region": "Shadow Isles", "speed": "fast", "cost": 2, "champion": false, "winrate": 49.7},
+     {"name": "Vengeance", "power": "N/A", "health": "N/A","Region": "Shadow Isles", "speed": "fast", "cost": 6, "champion": false, "winrate": 48.3},
+     {"name": "Piltovan Tellstones", "power": "N/A", "health": "N/A","Region": "Piltover and Zaun", "speed": "burst", "cost": 1, "champion": false, "winrate": 51.8},
+     {"name": "Time Trick", "power": "N/A", "health": "N/A","Region": "Piltover and Zaun", "speed": "burst", "cost": 2, "champion": false, "winrate": 51.5},
+     {"name": "Ravenous Flock", "power": "N/A", "health": "N/A","Region": "Noxus", "speed": "fast", "cost": 1, "champion": false, "winrate": 52.5},
+     {"name": "Forsaken Baccai", "power": 2, "health": 1,"Region": "Shurima", "speed": "N/A", "cost": 1, "champion": false, "winrate": 52.5},
+     {"name": "Arachnoid Sentry", "power": 3, "health": 2,"Region": "Noxus", "speed": "N/A", "cost": 3, "champion": false, "winrate": 52.9},
+     {"name": "Seraphine", "power": 2, "health": 5,"Region": "Piltover and Zaun", "speed": "N/A", "cost": 2, "champion": true, "winrate": 52.2},
+     {"name": "Combat Cook", "power": 2, "health": 2,"Region": "Demacia, Freljord", "speed": "N/A", "cost": 4, "champion": false, "winrate": 52.9},
+]   
